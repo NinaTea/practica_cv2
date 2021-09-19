@@ -1,1 +1,1 @@
-# practica_cv2
+# nuevo repositorio para práctica de GIT
